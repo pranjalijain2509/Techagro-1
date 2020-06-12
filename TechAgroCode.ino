@@ -202,7 +202,7 @@ void readSensor()
       
       delay(100);
       
-      tft.fillRect(31,10,90,25,color);  //Defining Size of the rectangle, with 'color' as a heading.
+      tft.fillRect(31,10,90,24,color);  //Defining Size of the rectangle, with 'color' as a heading.
 
       waiting = false;
     }
