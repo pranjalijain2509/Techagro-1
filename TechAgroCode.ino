@@ -59,7 +59,7 @@ void setup() {
  tft.setCursor(20,30);
   tft.setTextColor(RED);
  tft.setTextSize(2);
-    tft.print("Code Mania");// Name of event
+    tft.print("2020");
 
  tft.setCursor(20,60);
     tft.setTextColor(GREEN);
