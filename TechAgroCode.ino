@@ -69,7 +69,7 @@ void setup() {
     tft.setCursor(20,90);
  tft.setTextColor(BLUE);
   tft.setTextSize(1);
- tft.print("By- Prakhar"); // Creator's Name
+ tft.print("By- Prakhar and Pranjali"); // Creator's Name
 
   delay(3000);
   
