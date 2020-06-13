@@ -57,7 +57,7 @@ void setup() {
  drawBlackScreen();//Now Printing Opening Screen
   
  tft.setCursor(20,30);
-  tft.setTextColor(RED);
+  tft.setTextColor(GREEN);
  tft.setTextSize(2);
     tft.print("2020");
 
