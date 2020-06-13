@@ -88,7 +88,7 @@ drawBlackScreen();
  tft.setCursor(20,20);
   tft.setTextColor(RED);
  tft.setTextSize(2);
-    tft.print("Step 2- Place the sensor module on the chromatographic strip so as to scan it's RGB Data");
+    tft.print("Step 2- Place the sensor module on the chromatographic strip, so as to scan it's RGB Data");
 
   delay(3000);
 drawBlackScreen();
