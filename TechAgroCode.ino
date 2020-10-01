@@ -31,7 +31,7 @@
 #define Purple          0x780F      /* 128,   0, 128 */
 #define Olive           0x7BE0      /* 128, 128,   0 */
 #define GreenYellow     0xAFE5      /* 173, 255,  47 */
-
+#define Greeny          0xAFE6      /* 173, 255,  47 */
 // Pin definitions
 #define  S2_OUT  2
 #define  S3_OUT  3
